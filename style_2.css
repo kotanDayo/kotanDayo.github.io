@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 600px;
+}
+header{
+    height: 10%;
+    width: 100%;
+    background-color: orange;
+}
+.header_text{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 10%;
+}
+main{
+    height: 80%;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.self{
+    text-align: center;
+}
+footer{
+    height: 10%;background-color: orange;
+    text-align: center;
+}
